@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chainchat/static/css/main.a04732f1.css",
+    "main.js": "/chainchat/static/js/main.d848c2de.js",
+    "static/media/Duke_profile.png": "/chainchat/static/media/Duke_profile.8322cf89398b93af1b96.png",
+    "static/media/WalletConnect.png": "/chainchat/static/media/WalletConnect.13798276a43e02957131.png",
+    "static/media/MetaMask_Fox.svg.png": "/chainchat/static/media/MetaMask_Fox.svg.f09b3822877b112b4331.png",
+    "static/media/cover.png": "/chainchat/static/media/cover.5f31c7a26b88cf00ebf2.png",
+    "static/media/gears.gif": "/chainchat/static/media/gears.2225fe612099f3f3e5e9.gif",
+    "static/media/frank.jpg": "/chainchat/static/media/frank.872a670d3e00322e1033.jpg",
+    "static/media/chatchain.png": "/chainchat/static/media/chatchain.ad2be4553fbc44f7a889.png",
+    "static/media/marvin.jpg": "/chainchat/static/media/marvin.d1871931dd03b5b89b14.jpg",
+    "static/media/loaddots3.gif": "/chainchat/static/media/loaddots3.decf58f39f9ddb30dc07.gif",
+    "index.html": "/chainchat/index.html",
+    "main.a04732f1.css.map": "/chainchat/static/css/main.a04732f1.css.map",
+    "main.d848c2de.js.map": "/chainchat/static/js/main.d848c2de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a04732f1.css",
+    "static/js/main.d848c2de.js"
+  ]
+}
