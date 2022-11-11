@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/chainchat/static/css/main.2b7fe798.css",
-    "main.js": "/chainchat/static/js/main.4fb4a879.js",
+    "main.js": "/chainchat/static/js/main.0c63d58a.js",
     "static/media/Duke_profile.png": "/chainchat/static/media/Duke_profile.8322cf89398b93af1b96.png",
     "static/media/WalletConnect.png": "/chainchat/static/media/WalletConnect.13798276a43e02957131.png",
     "static/media/MetaMask_Fox.svg.png": "/chainchat/static/media/MetaMask_Fox.svg.f09b3822877b112b4331.png",
@@ -13,10 +13,10 @@
     "static/media/loaddots3.gif": "/chainchat/static/media/loaddots3.decf58f39f9ddb30dc07.gif",
     "index.html": "/chainchat/index.html",
     "main.2b7fe798.css.map": "/chainchat/static/css/main.2b7fe798.css.map",
-    "main.4fb4a879.js.map": "/chainchat/static/js/main.4fb4a879.js.map"
+    "main.0c63d58a.js.map": "/chainchat/static/js/main.0c63d58a.js.map"
   },
   "entrypoints": [
     "static/css/main.2b7fe798.css",
-    "static/js/main.4fb4a879.js"
+    "static/js/main.0c63d58a.js"
   ]
 }
